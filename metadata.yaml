@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '38618'
     url: http://www.gutenberg.org/2009/agents/38618
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37053#Insurrections-et-guerre-des-barricades-dans-les-grandes-villespar-le-g-n-ral-de-brigade-Rogue_
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2011-08-12'
 gutenberg_type: Text
